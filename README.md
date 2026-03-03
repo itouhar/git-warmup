@@ -1,9 +1,9 @@
-"# Git Warmup" 
-"" 
-"## Author" 
-"**itouhar** - IT Professional - Morocco" 
-"" 
-"## Technical Goals for this Bootcamp" 
-"- Master git and gitHub for version control" 
-"- Learn AI augmented backend development" 
-"- Build and deploy real-world projects" 
+# Git Warmup
+
+## Author
+**itouhar** - IT Professional - Morocco
+
+## Technical Goals for this Bootcamp
+- Master Git and GitHub for version control
+- Learn web development (HTML, CSS, JavaScript)
+- Build and deploy real-world projects
