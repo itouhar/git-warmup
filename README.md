@@ -2,3 +2,8 @@
 "" 
 "## Author" 
 "**itouhar** - IT Professional - Morocco" 
+"" 
+"## Technical Goals for this Bootcamp" 
+"- Master git and gitHub for version control" 
+"- Learn AI augmented backend development" 
+"- Build and deploy real-world projects" 
