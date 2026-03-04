@@ -9,4 +9,4 @@ mariam
 ## Technical Goals for this Bootcamp
 - Master Git and GitHub for version control
 - Learn web development (HTML, CSS, JavaScript)
-- Build and deploy real-world projects
+- Build and deploy real-world project
