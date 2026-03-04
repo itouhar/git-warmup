@@ -1,4 +1,4 @@
-I prefer Spring boot for the Backend je suis Amine
+I prefer Spring boot for the Backend je suis Abdallah
 
 ## Author
 **itouhar** - IT Professional - Morocco
@@ -6,4 +6,4 @@ I prefer Spring boot for the Backend je suis Amine
 ## Technical Goals for this Bootcamp
 - Master Git and GitHub for version control
 - Learn web development (HTML, CSS, JavaScript)
-- Build and deploy real-world projects
+- Build and deploy real-world project
