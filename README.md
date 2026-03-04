@@ -1,4 +1,4 @@
-I prefer PHP for the backend.
+I prefer PHP for the backend !!
 
 ## Author
 **itouhar** - IT Professional - Morocco
@@ -6,4 +6,4 @@ I prefer PHP for the backend.
 ## Technical Goals for this Bootcamp
 - Master Git and GitHub for version control
 - Learn web development (HTML, CSS, JavaScript)
-- Build and deploy real-world projectsgit add README.md
+- Build and deploy real-world projects
